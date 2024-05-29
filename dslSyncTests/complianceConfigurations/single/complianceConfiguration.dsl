@@ -1,5 +1,5 @@
-
 complianceConfiguration {
-  complianceUrl = 'https://www.qa.cbc.beescloud.com'
-  enabled = '0'
-}
+            complianceUrl = 'https://www.qa.cbc.beescloud.com'
+            enabled = '1'
+            authenticationToken = 'eyJhbGciOiJSUzI1NiIsImtpZCI6ImFybjphd3M6a21zOnVzLWVhc3QtMTowMDk4NTQ3MTc0OTc6a2V5LzU0ZTEyNWI2LWQ1ODQtNDVmZi05Y2M2LWZiMzk4MWVhOTgwZiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyZWZyZXNoLXRva2VuLTU1MTdhZDk2LThkMTQtNGJjMy1hYjZhLTk4NjgzNzc0OWYwMS0yMDI0LTA1LTE1VDE1OjE3OjE0LjkwMFoiLCJhdWQiOiJodHRwczovL3d3dy5xYS5jYmMuYmVlc2Nsb3VkLmNvbS8iLCJleHAiOjE3MTU3ODYyMzQsImlhdCI6MTY4NDE2MzgzNCwiaXNzIjoidWktZXh0ZXJuYWwtcHJveHktc2VydmljZSIsImp0aSI6IjU2YWZiYTUwLTExN2ItNGMwZS05MDVhLTQ2MDA1MWQxNzRkZCIsIm9yZ2FuaXNhdGlvbklkIjoiYjNmNTE1NjItNjU4OS0xMWVkLWIwZmEtZWU3ZmJmZDY4OWY5IiwidG9rZW5JZGVudGlmaWVyIjoicmVmcmVzaC10b2tlbi01NTE3YWQ5Ni04ZDE0LTRiYzMtYWI2YS05ODY4Mzc3NDlmMDEtMjAyNC0wNS0xNVQxNToxNzoxNC45MDBaIn0.YpHD97AE_69n2YllrPMRYS-86VuGI3YOpv32J2YzIwewQlTqeUe2gqaCJygKl0WVpCGQH-M8YYUTZ2jNER5yCXPsZZfm3QfVYEjR5YWrCFdA62g7HNm90njh5NyU31uiin6lnwJReDSq5ObIvhqsh738dJpX8i1p86vdkoUb68auQmtXp20TlntUz6Xq8T-nJyouQL6xCOP__hs5-ufmg2mSiee-4s9EfGnsKzhIp_a1L1hwI3v45VrTAsXSnH9vuZP5Yhz6wFmSlhoIzFFnjTyAK3Y9KbWOvQzWjyngEGtZvreMgBwhwJx2szCkjBwYQb4fMN0N9dsinhPSJZgeSg'
+        }
